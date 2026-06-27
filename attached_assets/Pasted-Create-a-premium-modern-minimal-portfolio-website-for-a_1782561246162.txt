@@ -1,0 +1,247 @@
+Create a premium, modern, minimal portfolio website for a freelance web developer named Kunal Sharma. The website should feel like it was designed by an expensive design agency. Use smooth animations, glassmorphism where appropriate, subtle gradients, clean typography, rounded corners, and an elegant dark/light aesthetic. Make it fully responsive with excellent mobile optimization.
+
+The purpose of this website is to convince local business owners to hire me to build their website.
+
+Use React, Tailwind CSS, Framer Motion for animations, and modern UI practices. Focus heavily on trust and professionalism.
+
+========================================
+HERO SECTION
+========================================
+
+Large heading:
+
+"Beautiful Websites for Local Businesses"
+
+Subheading:
+
+"I help boutiques, salons, cafés, tattoo studios, photographers, bakeries and other local businesses establish a strong online presence with modern, fast and responsive websites."
+
+Buttons:
+
+Primary:
+View My Work
+
+Secondary:
+Get in Touch
+
+Add subtle floating shapes and premium animations.
+
+========================================
+ABOUT
+========================================
+
+Title:
+About Me
+
+Text:
+
+"Hi, I'm Kunal Sharma, a freelance web developer based in Zirakpur. I specialize in creating modern websites for local businesses that want to stand out online.
+
+My goal is simple: build websites that look premium, load quickly, and help businesses attract more customers."
+
+========================================
+WHY A WEBSITE?
+========================================
+
+Create beautiful cards explaining benefits:
+
+✔ Showcase your work
+✔ Build trust
+✔ Get discovered on Google
+✔ Professional online presence
+✔ Easy contact for customers
+✔ Mobile-friendly experience
+
+========================================
+SERVICES
+========================================
+
+Create service cards:
+
+Business Websites
+
+Portfolio Websites
+
+Landing Pages
+
+Website Redesign
+
+Maintenance & Updates
+
+Google Maps Integration
+
+WhatsApp Integration
+
+Responsive Design
+
+========================================
+MY WORK
+========================================
+
+Display ONE featured project in a premium portfolio card.
+
+Title:
+
+Ethnic Aura by Twinkle
+
+Description:
+
+"A modern boutique website designed to showcase collections with an elegant user experience."
+
+Add buttons:
+
+Live Website
+
+Use this URL:
+
+https://ethnic-aura-by-twinkle.lovable.app/
+
+Do NOT invent additional projects.
+
+Instead, add a small note:
+
+"Currently expanding my portfolio with more local business websites."
+
+========================================
+WHY CHOOSE ME
+========================================
+
+Create feature cards:
+
+Affordable Pricing
+
+Fast Delivery
+
+Mobile Responsive
+
+Modern UI Design
+
+Personal Support
+
+Customized for Your Business
+
+========================================
+PRICING
+========================================
+
+Display one pricing card.
+
+Title:
+
+Business Website
+
+Price:
+
+₹2,500
+
+Include:
+
+Modern responsive design
+
+WhatsApp integration
+
+Google Maps
+
+Contact form
+
+Basic SEO
+
+Maintenance included
+
+Custom branding
+
+Clear CTA button:
+
+Let's Build Your Website
+
+========================================
+FAQ
+========================================
+
+Include:
+
+How long does it take?
+Usually 3–5 days.
+
+Will my website work on mobile?
+Yes.
+
+Can you customize it?
+Absolutely.
+
+Can we meet in person?
+Yes, if you're located around Zirakpur, Chandigarh, Panchkula or Mohali.
+
+========================================
+CONTACT
+========================================
+
+Headline:
+
+Let's Build Something Amazing
+
+Include:
+
+WhatsApp button
+
+Phone placeholder
+
+Email placeholder
+
+Location:
+Zirakpur, Punjab
+
+========================================
+FOOTER
+========================================
+
+Simple elegant footer:
+
+Kunal Sharma
+Freelance Web Developer
+
+Designed with ❤️
+
+========================================
+DESIGN REQUIREMENTS
+========================================
+
+Extremely premium.
+
+Apple-like aesthetics.
+
+Beautiful scroll animations.
+
+Hover animations.
+
+Animated cards.
+
+Modern icons.
+
+Gradient buttons.
+
+Sticky navbar.
+
+Smooth scrolling.
+
+Section reveal animations.
+
+Perfect spacing.
+
+Excellent typography.
+
+Professional color palette.
+
+Excellent responsiveness.
+
+No fake testimonials.
+
+No fake experience.
+
+No fake client numbers.
+
+No fake companies.
+
+Everything should feel honest, modern and trustworthy.
+
+The final result should look like something that could win an Awwwards nomination while still being clean, fast and convincing for local business owners.
