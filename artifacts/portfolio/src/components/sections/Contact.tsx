@@ -63,8 +63,8 @@ export default function Contact() {
 
               {/* Info items */}
               {[
-                { icon: Phone, label: 'Phone', value: '+91 XXXXX XXXXX' },
-                { icon: Mail, label: 'Email', value: 'hello@kunalsharma.dev' },
+                { icon: Phone, label: 'Phone', value: '+91 77176 58532' },
+                { icon: Mail, label: 'Email', value: 'kunalsharma.official.26207@gmail.com' },
                 { icon: MapPin, label: 'Location', value: 'Zirakpur, Punjab, India' },
               ].map(({ icon: Icon, label, value }) => (
                 <div key={label} className="flex items-center gap-4">
