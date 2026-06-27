@@ -63,7 +63,8 @@ export default function Contact() {
 
               {/* Info items */}
               {[
-                { icon: Phone, label: 'Phone', value: '+91 77176 58532' },
+                { icon: Phone, label: 'Phone', value: '+91 77176 58532, +91 99155 41571' },
+
                 { icon: Mail, label: 'Email', value: 'kunalsharma.official.26207@gmail.com' },
                 { icon: MapPin, label: 'Location', value: 'Zirakpur, Punjab, India' },
               ].map(({ icon: Icon, label, value }) => (
