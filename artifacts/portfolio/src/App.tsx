@@ -6,6 +6,7 @@ import WhyWebsite from '@/components/sections/WhyWebsite';
 import Services from '@/components/sections/Services';
 import About from '@/components/sections/About';
 import Portfolio from '@/components/sections/Portfolio';
+import Testimonials from '@/components/sections/Testimonials';
 import WhyChooseMe from '@/components/sections/WhyChooseMe';
 import Pricing from '@/components/sections/Pricing';
 import FAQ from '@/components/sections/FAQ';
@@ -23,6 +24,7 @@ function App() {
           <Services />
           <About />
           <Portfolio />
+          <Testimonials />
           <WhyChooseMe />
           <Pricing />
           <FAQ />
