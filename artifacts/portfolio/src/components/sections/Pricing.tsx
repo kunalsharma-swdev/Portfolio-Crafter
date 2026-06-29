@@ -67,11 +67,14 @@ export default function Pricing() {
               <p className="text-muted-foreground text-sm mb-6">
                 Everything you need to launch online.
               </p>
+              <p className="text-muted-foreground text-sm mb-6">
+                Starting From
+              </p>
 
               {/* Price */}
               <div className="flex items-end gap-2 mb-8">
                 <span className="text-5xl md:text-6xl font-bold font-display text-gradient">
-                  Starting From ₹2,500
+                  ₹2,500
                 </span>
                 <span className="text-muted-foreground mb-2 text-sm">/ project</span>
               </div>
