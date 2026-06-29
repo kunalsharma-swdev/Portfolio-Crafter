@@ -71,7 +71,7 @@ export default function Pricing() {
               {/* Price */}
               <div className="flex items-end gap-2 mb-8">
                 <span className="text-5xl md:text-6xl font-bold font-display text-gradient">
-                  ₹2,500
+                  Starting From ₹2,500
                 </span>
                 <span className="text-muted-foreground mb-2 text-sm">/ project</span>
               </div>
