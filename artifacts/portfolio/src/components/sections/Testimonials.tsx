@@ -9,7 +9,14 @@ const testimonials = [
     project: "Ethnic Aura by Twinkle",
     initials: "T",
   },
+  {
+    text: "We're very happy with our new website. Kunal was professional, attentive to detail, and made the entire process smooth. He delivered the website really quickly, without any issues. He explained us about the database of the website really easily, and how it can be managed by us.",
+    name: "Omyra",
+    project: "Omyra Fancy Dress and Fashion",
+    initials: "O",
+  },
 ];
+
 
 export default function Testimonials() {
   const ref = useRef(null);
