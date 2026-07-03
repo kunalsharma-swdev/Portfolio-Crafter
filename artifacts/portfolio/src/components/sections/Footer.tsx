@@ -59,7 +59,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 pt-6 border-t border-border/50 text-center text-xs text-muted-foreground/60">
-          © 2024 Kunal Sharma. All rights reserved.
+          © 2026 Kunal Sharma. All rights reserved.
         </div>
       </div>
     </footer>
